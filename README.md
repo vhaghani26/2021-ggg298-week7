@@ -4,3 +4,8 @@ Week 7 of GGG 298 at UC Davis (Example Repository)
 Practice using GitHub. 
 
 Now I'm practicing making a commit.
+
+To run the workflow, run:
+```
+snakemake -j 1
+```
