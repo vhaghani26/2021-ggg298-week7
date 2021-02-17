@@ -1,3 +1,6 @@
+rule all:
+    input: "hello.txt", "howdy.txt"
+
 rule hello:
     output: "hello.txt"
     shell:
